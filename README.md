@@ -119,3 +119,12 @@ Al ser un archivo estático, puedes desplegarlo en:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Google Sheets API](https://img.shields.io/badge/Google_Sheets_API-v4-34A853?style=flat&logo=google-sheets&logoColor=white)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-4285F4?style=flat&logo=google&logoColor=white)
+
+---
+
+## 👨‍💻 Autor
+
+**Marvin Valdez**
+Ingeniero en Sistemas, Electronica y Electromecanica | Redes | Ciberseguridad | IA
+
+---
