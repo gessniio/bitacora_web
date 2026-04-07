@@ -10,7 +10,7 @@ Diagrama de la estructura del archivo HTML y el flujo de datos
 Tabla de consideraciones de seguridad (importante — tu API_KEY y SPREADSHEET_ID están visibles en el código)
 Mejoras futuras y referencias oficiales de Google
 
-# 📋 Bitácora de Actividades — UNRC Tampico
+# 📋 Bitácora de Actividades — proyecto personal
 
 Aplicación web de una sola página (**sin backend**) que conecta directamente con **Google Sheets** para visualizar, filtrar y registrar actividades de ingeniería. Todo corre en el navegador; no requiere servidor ni base de datos.
 
