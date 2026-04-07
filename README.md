@@ -1,4 +1,4 @@
-# bitacora_web
+# BITACORA_WEB
 bitacora web + api de google sheet
 
 Descripción del proyecto y tabla de características
