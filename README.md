@@ -9,9 +9,4 @@ Las 4 constantes que hay que editar (CLIENT_ID, API_KEY, SPREADSHEET_ID, ROWS_PE
 Diagrama de la estructura del archivo HTML y el flujo de datos
 Tabla de consideraciones de seguridad (importante — tu API_KEY y SPREADSHEET_ID están visibles en el código)
 Mejoras futuras y referencias oficiales de Google
-Para subirlo a tu repo:
-# Reemplaza el README actual
-cp README.md tu-repo/README.md
-git add README.md
-git commit -m "docs: README completo con setup Google Cloud y arquitectura"
-git push
+
